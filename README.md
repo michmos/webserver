@@ -1,4 +1,4 @@
-# WebServ - HTTP Server from Scratch
+# Webserver - HTTP Server from Scratch
 by [**Merel**](https://github.com/MerelVanEssen), [**Chriss**](https://github.com/Chr-ss/Webserv) and me.
 
 ## About
