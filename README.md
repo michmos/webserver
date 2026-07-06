@@ -31,7 +31,7 @@ This is a HTTP/1.1 compliant webserver built from scratch in C++. It is designed
 git clone https://github.com/michmos/webserver.git
 
 # Navigate to the project directory
-cd 42_webserv
+cd webserver
 
 # Compile the project
 make
