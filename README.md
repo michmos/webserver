@@ -28,13 +28,7 @@ This is a HTTP/1.1 compliant webserver built from scratch in C++. It is designed
 ## Usage
 ```bash
 # Clone the repository
-git clone https://github.com/michmos/webserver.git
-
-# Navigate to the project directory
-cd webserver
-
-# Compile the project
-make
+git clone https://github.com/michmos/webserver.git && cd webserver && make
 
 # Create a new configuration file under configs/ or adjust an exisiting one
 # (see example configs in configs/)
